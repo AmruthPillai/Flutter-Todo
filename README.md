@@ -1,6 +1,6 @@
-# flutter_todo
+# Flutter-Todo
 
-A new Flutter project.
+An application written in Flutter & Dart to manage your todos and reminders.
 
 ## Getting Started
 
